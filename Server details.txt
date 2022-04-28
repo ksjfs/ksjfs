@@ -1,0 +1,7 @@
+{                 
+
+                "ip":"coed.aternos.me",
+                "port":"62390",
+                "name":"My server"
+
+}
